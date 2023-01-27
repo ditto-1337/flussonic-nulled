@@ -1,6 +1,6 @@
 This is the best flussonic nulled Script that I found, so thought I would Share, It supports most ubuntu operating systems.
 
-http://xtream-host.com/nulled.png
+![Screenshot](Flussonic.png)
 
 chmod +x Flussonic_23.01_Nulled.sh
 
